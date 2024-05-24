@@ -1,0 +1,18 @@
+1. Copy folder to Desktop
+
+2. Run MATLAB App Designer 
+
+3. Load MMRT_GUI_1
+
+4. Copy path to file folder, eg. "C:\Users\User\Desktop\Example\text files moth performing" and paste in Folder path 
+   or use Add folder function. 
+
+5. The file identifier must be entered, here it should be "CB_"
+
+6. If you want to filter the data according to low/high r-values, enter threshold from 0 to 1
+
+7. If you want to analyse the data until a certain timestamp (not the whole file), type in the timestamp. 1500 = 5 minutes.
+   Sampling rate= 5Hz. 1500 samples / 5 samples per second = 300 seconds. 300 seconds / 60 = 5 minutes.
+
+8. Push green button until Figures open.    
+   
